@@ -1,0 +1,26 @@
+{
+  "name": "webscraper101",
+  "version": "1.0.0",
+  "description": "command line program that can parse remote pages, read the html, and write the content I want!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dsomel21/Web-Scraper-101.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Dilraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsomel21/Web-Scraper-101/issues"
+  },
+  "homepage": "https://github.com/dsomel21/Web-Scraper-101#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  }
+}
